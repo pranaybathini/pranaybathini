@@ -56,7 +56,7 @@ Here are some ideas to get you started:
  <img src="https://komarev.com/ghpvc/?username=pranaybathini&color=blue&style=flat">
 
 <p >
- <a target="_blank"href="https://medium.com/@pranaykumargoud"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-<a target="_blank"href="https://twitter.com/code__vampire"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a target="_blank"href="https://medium.com/@pranaybathini"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
+<a target="_blank"href="https://twitter.com/pranay_bathini"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
