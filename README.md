@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
  ## Github stats
 
-
+<img align="left" alt="pranaybathini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranaybathini&hide=contribs&show_icons=true&hide_border=true" />
 
 
  ## Connect with me
