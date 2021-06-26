@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [website]: https://pranaybathini.github.io/
 [twitter]: https://twitter.com/pranay_bathini
 [instagram]: https://www.instagram.com/pranay_flipside/
-[linkedin]: https://www.linkedin.com/in/pranaybathini/
+[linkedin]: https://www.linkedin.com/in/pranaykumargoud/
 [medium]: https://medium.com/@pranaybathini
 
 
