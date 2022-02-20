@@ -1,62 +1,60 @@
-[<img src="https://github.com/pranaykumargoud/pranaykumargoud/blob/master/intro.png?raw=true" >](https://www.linkedin.com/in/pranaykumargoud/)
+<!-- [<img src="https://github.com/pranaykumargoud/pranaykumargoud/blob/master/intro.png?raw=true" >](https://www.linkedin.com/in/pranaykumargoud/) -->
 
-<!--
-**pranaykumargoud/pranaykumargoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[<img src="https://image.flaticon.com/icons/svg/123/123718.svg" border="25px" width="25">](https://www.linkedin.com/in/pranaykumargoud/) [<img src="https://image.flaticon.com/icons/svg/123/123728.svg"  width="25">](https://www.linkedin.com/in/pranaykumargoud/)    [<img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"  width="29">](https://www.linkedin.com/in/pranaykumargoud/)   [<img src="https://image.flaticon.com/icons/svg/123/123726.svg"  width="29">](https://www.linkedin.com/in/pranaykumargoud/)
--->
 
 <h1 align="center">Hi 👋, I'm Pranay Kumar</h1>
-<h3 align="center">A passionate SDE 🧑‍💻 </h3>
+<h3 align="center">A passionate Software Engineer 🧑‍💻 </h3>
 
 
 
 <br/>
+
+## Writing
+
+- I write 🖊 about technology and my journey as software engineer on my **[personal blog](https://pranaybathini.com)**
+- I also write about technology aspect in web3 and cryptocurrencies on my **[crypto blog](https://thecryptoinsight.com)** 
+
+### Popular Blogs
+
+- [Merkle Tree: Implementation in java and its real world applications](https://www.pranaybathini.com/2021/05/merkle-tree.html)
+- [Fetching secrets from Hashicorp vault in spring boot.](https://www.pranaybathini.com/2021/05/hashicorp-vault-config-in-spring-boot.html)
+- [Quartz Scheduler Email Scheduling application in Spring boot with MySQL](https://www.pranaybathini.com/2021/04/quartz-scheduler-email-scheduling.html)
+- [Clean Code Principles and Engineering Principles for writing better code](https://www.pranaybathini.com/2021/05/clean-code-principles.html)
+- [Getting Started with Jshell (Java Shell Tool)](https://www.pranaybathini.com/2021/07/getting-started-with-jshell.html)
+- [Creating On Chain NFT Smart Contract and DApp](https://dev.to/pranaybathini/creating-an-loot-royale-nft-collection-dapp-2ie)
+
+## Work
+
+- I work as Software Enginner at **[Lowes](https://lowes.com)**
+- [Loot Royale NFT DApp](https://lootroyale.xyz/)
+
+
+## Connect with me
+
+- About me - [My portfolio](https://about.pranaybathini.com/)
+
+
+<p align="left">
+
+<a href="https://twitter.com/pranay_bathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranay_bathini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranaybathini" height="30" width="40" /></a>
+<a href="https://hashnode.com/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="pranaybathini" height="30" width="40" /></a>
+<a href="https://medium.com/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pranaybathini" height="30" width="40" /></a>
+ <a href="https://dev.to/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pranaybathini" height="30" width="40" /></a>
+</p>
+
 
  ## Github stats
 
 <img align="left" alt="pranaybathini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranaybathini&hide=contribs&show_icons=true&hide_border=true" />
 
 
- ## Connect with me
-
-<!--[<img align="left" alt="pranaykumargoud-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="pranaykumargoud-portfolio" width="22px" src="https://image.flaticon.com/icons/png/512/69/69045.png" />][website]
-[<img align="left" alt="pranaykumargoud | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="pranaykumargoud | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pranaykumargoud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="pranaykumargoud | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-
-[website]: https://pranaybathini.github.io/
-[twitter]: https://twitter.com/pranay_bathini
-[instagram]: https://www.instagram.com/pranay_flipside/
-[linkedin]: https://www.linkedin.com/in/pranaykumargoud/
-[medium]: https://medium.com/@pranaybathini
-
-
-
 <br/>
 <br/>
 
-<!--[![Visits Badge](https://badges.pufler.dev/visits/pranaykumargoud/pranaykumargoud)](https://github.com/pranaykumargoud/praaykumargoud)-->
-[![Repos Badge](https://badges.pufler.dev/repos/pranaybathini)](https://github.com/pranaybathini?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/pranaybathini)](https://gist.github.com/pranaybathini)
- <img src="https://komarev.com/ghpvc/?username=pranaybathini&color=blue&style=flat">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaybathini&label=Profile%20views&color=0e75b6&style=flat" alt="pranaybathini" /> </p>
 
-<p >
- <a target="_blank"href="https://medium.com/@pranaybathini"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?color=black&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-<a target="_blank"href="https://twitter.com/pranay_bathini"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+
+
+
 
