@@ -39,7 +39,7 @@
 <a href="https://twitter.com/pranay_bathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranay_bathini" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranaybathini" height="30" width="40" /></a>
 <a href="https://hashnode.com/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="pranaybathini" height="30" width="40" /></a>
-<a href="https://medium.com/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pranaybathini" height="30" width="40" /></a>
+<a href="https://medium.com/@pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pranaybathini" height="30" width="40" /></a>
  <a href="https://dev.to/pranaybathini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pranaybathini" height="30" width="40" /></a>
 </p>
 
