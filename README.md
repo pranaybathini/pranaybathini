@@ -26,7 +26,6 @@
 ## Work
 
 - I work as Software Enginner at **[Lowes](https://lowes.com)**
-- [Loot Royale NFT DApp](https://lootroyale.xyz/)
 
 
 ## Connect with me
