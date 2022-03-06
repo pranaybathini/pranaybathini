@@ -23,6 +23,10 @@
 - [Getting Started with Jshell (Java Shell Tool)](https://www.pranaybathini.com/2021/07/getting-started-with-jshell.html)
 - [Creating On Chain NFT Smart Contract and DApp](https://dev.to/pranaybathini/creating-an-loot-royale-nft-collection-dapp-2ie)
 
+### Recent Blogs
+- [Java KeyTool Utility Tutorial](https://www.pranaybathini.com/2022/03/java-keytool-utility.html)
+- [Rotate Image by 180 Degree Transition](https://www.pranaybathini.com/2022/03/rotate-image-by-180-degree-on-hover.html)
+
 ## Work
 
 - I work as Software Enginner at **[Lowes](https://lowes.com)**
