@@ -29,7 +29,7 @@
 
 ## Work
 
-- I work as Software Enginner at **[Lowes](https://lowes.com)**
+- I work as Software Engineer at **[Lowes](https://lowes.com)**
 
 
 ## Connect with me
