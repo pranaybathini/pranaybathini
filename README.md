@@ -29,7 +29,7 @@
 
 ## Work
 
-- I work as Software Engineer at **[Lowes](https://lowes.com)**
+- I work as Software Engineer II at **[Booking.com](https://www.bookingholdings.com/)**
 
 
 ## Connect with me
