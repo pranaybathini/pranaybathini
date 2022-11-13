@@ -27,6 +27,10 @@
 - [Java KeyTool Utility Tutorial](https://www.pranaybathini.com/2022/03/java-keytool-utility.html)
 - [Rotate Image by 180 Degree Transition](https://www.pranaybathini.com/2022/03/rotate-image-by-180-degree-on-hover.html)
 
+
+## Some Resources
+- [Tech Blogs & Research Papers Collection](https://docs.google.com/document/d/1RrJO2LTWvpQZ09PCXIYAHIR5n9IHG7egIfGLeJwjqAI/edit?usp=sharing)
+
 ## Work
 
 - I work as Software Engineer II at **[Booking.com](https://www.bookingholdings.com/)**
