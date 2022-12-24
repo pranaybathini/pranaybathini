@@ -16,11 +16,11 @@
 
 ### Popular Blogs
 
+- [Kafka local setup using docker and kcat utility](https://www.pranaybathini.com/2022/12/kafka-local-setup-using-docker.html)
 - [Merkle Tree: Implementation in java and its real world applications](https://www.pranaybathini.com/2021/05/merkle-tree.html)
 - [Fetching secrets from Hashicorp vault in spring boot.](https://www.pranaybathini.com/2021/05/hashicorp-vault-config-in-spring-boot.html)
 - [Quartz Scheduler Email Scheduling application in Spring boot with MySQL](https://www.pranaybathini.com/2021/04/quartz-scheduler-email-scheduling.html)
 - [Clean Code Principles and Engineering Principles for writing better code](https://www.pranaybathini.com/2021/05/clean-code-principles.html)
-- [Getting Started with Jshell (Java Shell Tool)](https://www.pranaybathini.com/2021/07/getting-started-with-jshell.html)
 - [Creating On Chain NFT Smart Contract and DApp](https://dev.to/pranaybathini/creating-an-loot-royale-nft-collection-dapp-2ie)
 
 ### Recent Blogs
