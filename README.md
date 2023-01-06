@@ -12,11 +12,10 @@
 ## Writing
 
 - I write 🖊 about technology and my journey as software engineer on my **[personal blog](https://pranaybathini.com)**
-- I also write about technology aspect in web3 and cryptocurrencies on my **[crypto blog](https://thecryptoinsight.com)** 
 
 ### Popular Blogs
 
-- [Kafka local setup using docker and kcat utility](https://www.pranaybathini.com/2022/12/kafka-local-setup-using-docker.html)
+- [How to Create On-Chain and Off-Chain NFT Collection Smart Contracts](https://hackernoon.com/how-to-create-on-chain-and-off-chain-nft-collection-smart-contracts)
 - [Merkle Tree: Implementation in java and its real world applications](https://www.pranaybathini.com/2021/05/merkle-tree.html)
 - [Fetching secrets from Hashicorp vault in spring boot.](https://www.pranaybathini.com/2021/05/hashicorp-vault-config-in-spring-boot.html)
 - [Quartz Scheduler Email Scheduling application in Spring boot with MySQL](https://www.pranaybathini.com/2021/04/quartz-scheduler-email-scheduling.html)
