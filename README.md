@@ -22,7 +22,7 @@ I write about AI, System design, Java, and distributed systems with a bias towar
 
 At Booking.com, I work on infrastructure that processes millions of events daily. Previously built streaming solutions with Apache Flink for real-time safety incident detection. Before that, worked at Lowe's and Paytm Payments Bank on distributed systems.
 
-I write about what I learn — AI, System design patterns, Java internals, Spring Boot, and distributed systems.
+I write about what I learn on AI, System design patterns, Java internals, Spring Boot, and distributed systems.
 
 I started writing because most resources felt either too academic or too shallow. I wanted something that helps you reason about real systems, not just memorize patterns.
 
