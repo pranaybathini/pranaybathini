@@ -108,7 +108,6 @@ Tools I work with regularly in production:
 
 If you're working on AI, system design, streaming, or scaling problems and want to discuss — feel free to reach out.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranay@pranaybathini.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaybathini)
 [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranaybathini.com)
 
