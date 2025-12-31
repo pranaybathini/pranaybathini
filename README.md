@@ -1,16 +1,107 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pranaybathini/pranaybathini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Pranay 👋
 
-Here are some ideas to get you started:
+### Senior Software Engineer @ Booking.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building real-time streaming systems at scale. Writing about what I learn along the way.
+
+[![Website](https://img.shields.io/badge/Website-pranaybathini.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranaybathini.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaybathini)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://pranaybathini.substack.com)
+
+</div>
+
+---
+
+## About
+
+At Booking.com, I work on infrastructure that processes millions of events daily. Previously built streaming solutions with Apache Flink for real-time safety incident detection. Before that, worked at Lowe's and Paytm Payments Bank on distributed systems.
+
+I write about what I learn — system design patterns, Java internals, Spring Boot, and distributed systems. No fluff, just practical stuff that helped me.
+
+---
+
+## 📝 Recent Writing
+
+| Post | Topic |
+|------|-------|
+| [Spring Boot 3.x: What Actually Changed](https://pranaybathini.com/blog/spring-boot-modern-features) | Spring Boot |
+| [Java Multithreading: Classic Problems & Solutions](https://pranaybathini.com/blog/java-multithreading-interview-questions) | Java |
+| [Merkle Trees: Implementation & Applications](https://pranaybathini.com/blog/merkle-tree-implementation-and-applications) | Data Structures |
+| [Quartz Scheduler in Spring Boot](https://pranaybathini.com/blog/quartz-scheduler-email-scheduling) | Spring Boot |
+| [HashiCorp Vault + Spring Boot](https://pranaybathini.com/blog/hashicorp-vault-spring-boot-integration) | Security |
+
+➡️ [**View all posts**](https://pranaybathini.com/blog)
+
+---
+
+## 📚 Free Courses
+
+I'm creating structured courses on topics I spent years learning the hard way:
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://pranaybathini.com/learn/system-design-fundamentals">
+<img src="https://img.shields.io/badge/System_Design-Fundamentals-00ADD8?style=for-the-badge" />
+</a>
+<br/><br/>
+<sub>How to think about scale, read architecture diagrams, and do back-of-envelope calculations</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://pranaybathini.com/learn/llm-fundamentals">
+<img src="https://img.shields.io/badge/LLM-Fundamentals-8B5CF6?style=for-the-badge" />
+</a>
+<br/><br/>
+<sub>Understanding transformers, attention mechanisms, and how language models work</sub>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Free and text-based. New lessons published regularly.</sub></p>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apache-flink&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pranaybathini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaybathini&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+Open to conversations about system design, streaming architectures, or interesting engineering problems.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranay@pranaybathini.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaybathini)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranaybathini.com)
+
+</div>
