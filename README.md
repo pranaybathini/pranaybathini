@@ -4,11 +4,15 @@
 
 ### Senior Software Engineer @ Booking.com
 
-Building real-time streaming systems at scale. Writing about what I learn along the way.
+Building real-time streaming systems at scale (millions of events/day).
+
+I write about AI, System design, Java, and distributed systems with a bias toward what breaks, what scales, and what actually matters in production.
 
 [![Website](https://img.shields.io/badge/Website-pranaybathini.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranaybathini.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaybathini)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pranay_bathini)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://pranaybathini.substack.com)
+
 
 </div>
 
@@ -18,19 +22,21 @@ Building real-time streaming systems at scale. Writing about what I learn along 
 
 At Booking.com, I work on infrastructure that processes millions of events daily. Previously built streaming solutions with Apache Flink for real-time safety incident detection. Before that, worked at Lowe's and Paytm Payments Bank on distributed systems.
 
-I write about what I learn — system design patterns, Java internals, Spring Boot, and distributed systems. No fluff, just practical stuff that helped me.
+I write about what I learn — AI, System design patterns, Java internals, Spring Boot, and distributed systems.
+
+I started writing because most resources felt either too academic or too shallow. I wanted something that helps you reason about real systems, not just memorize patterns.
 
 ---
 
 ## 📝 Recent Writing
 
-| Post | Topic |
-|------|-------|
-| [Spring Boot 3.x: What Actually Changed](https://pranaybathini.com/blog/spring-boot-modern-features) | Spring Boot |
-| [Java Multithreading: Classic Problems & Solutions](https://pranaybathini.com/blog/java-multithreading-interview-questions) | Java |
-| [Merkle Trees: Implementation & Applications](https://pranaybathini.com/blog/merkle-tree-implementation-and-applications) | Data Structures |
-| [Quartz Scheduler in Spring Boot](https://pranaybathini.com/blog/quartz-scheduler-email-scheduling) | Spring Boot |
-| [HashiCorp Vault + Spring Boot](https://pranaybathini.com/blog/hashicorp-vault-spring-boot-integration) | Security |
+A few practical deep dives people found useful:
+
+- [Spring Boot 3.x: What Actually Changed (and What Matters)](https://pranaybathini.com/blog/spring-boot-modern-features)
+- [Java Multithreading: Classic Problems and Solutions](https://pranaybathini.com/blog/java-multithreading-interview-questions)
+- [Merkle Trees: Implementation in Java and Real-World Applications](https://pranaybathini.com/blog/merkle-tree-implementation-and-applications)
+- [Implementing Scheduled Emails with Quartz Scheduler in Spring Boot](https://pranaybathini.com/blog/quartz-scheduler-email-scheduling)
+- [Securing Application Secrets with HashiCorp Vault and Spring Boot](https://pranaybathini.com/blog/hashicorp-vault-spring-boot-integration)
 
 ➡️ [**View all posts**](https://pranaybathini.com/blog)
 
@@ -38,7 +44,7 @@ I write about what I learn — system design patterns, Java internals, Spring Bo
 
 ## 📚 Free Courses
 
-I'm creating structured courses on topics I spent years learning the hard way:
+I'm creating structured courses on topics I spent quite some time learning the hard way so you don't have to piece them together from scattered blogs, outdated Stack Overflow threads, and partial docs:
 
 <table>
 <tr>
@@ -65,6 +71,8 @@ I'm creating structured courses on topics I spent years learning the hard way:
 
 ## 🛠️ Tech Stack
 
+Tools I work with regularly in production:
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -85,11 +93,20 @@ I'm creating structured courses on topics I spent years learning the hard way:
 
 ---
 
+
+## 💭 Currently Thinking About
+
+- LLMs in production beyond demos (evaluation, cost, failure modes)
+- How code review changes when AI writes 90% of the code and reducing AI slop
+- Teaching system design without turning it into pattern memorization
+
+---
+
 <div align="center">
 
 ### Let's Connect
 
-Open to conversations about system design, streaming architectures, or interesting engineering problems.
+If you're working on AI, system design, streaming, or scaling problems and want to discuss — feel free to reach out.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranay@pranaybathini.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaybathini)
