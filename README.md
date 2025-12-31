@@ -85,15 +85,6 @@ I'm creating structured courses on topics I spent years learning the hard way:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pranaybathini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranaybathini&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 <div align="center">
 
 ### Let's Connect
